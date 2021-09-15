@@ -1,0 +1,16 @@
+#regerror{
+    position: absolute;
+    visibility: hidden;
+    left: 0;
+    bottom: 0;
+}
+#error{
+    position: absolute;
+    visibility: hidden;
+    left: 0;
+    bottom: 0;
+}
+
+
+
+
